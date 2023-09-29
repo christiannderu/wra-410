@@ -1,2 +1,2 @@
 # Assignment-01
-HTML by Christian & CSS for Kennedi
+HTML by Christian & CSS for Kingsley
